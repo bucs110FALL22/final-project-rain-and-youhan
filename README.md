@@ -10,13 +10,13 @@
 << [link to demo presentation slides](#) >>
 
 ### Team: << team name >>
-#### << Team Members >>
+#### << Rain and Youhan >>
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+We are making a game to use as aim trainer and to give the user and input with mouse
 
 ***    
 
